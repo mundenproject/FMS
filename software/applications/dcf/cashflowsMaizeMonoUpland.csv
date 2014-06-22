@@ -1,0 +1,26 @@
+Item Description,StartDate,EndDate,Period,Rev/Exp,Discount Curve #
+Seedling,6/25/2014,6/25/2026,Annually,-230000,1
+Fertilizer - NPK,6/25/2014,6/25/2026,Annually,-240000,1
+Fertilizer - K,6/25/2014,6/25/2026,Annually,-260000,1
+Machete,6/25/2014,6/25/2026,Annually,-150000,1
+Hoe,6/25/2014,6/25/2026,Annually,-80000,1
+Rake,6/25/2014,6/25/2026,Annually,-40000,1
+Boots,6/25/2014,6/25/2026,Annually,-225000,1
+Sac,6/25/2014,6/25/2026,Annually,-75000,1
+Sharpener (machete),6/25/2014,6/25/2026,Annually,-25000,1
+Sharpener (hoe),6/25/2014,6/25/2026,Annually,-60000,1
+Chopping Knife,6/25/2014,6/25/2026,Annually,-120000,1
+Spray Pump,6/25/2014,6/25/2026,Annually,-55000,1
+Bamboo Frame,6/25/2014,6/25/2026,Annually,-30000,1
+New Motorbike,6/25/2014,6/25/2026,Annually,-2500000,1
+Land Preparation,6/25/2014,6/25/2026,Annually,-1400000,1
+Planting,6/25/2014,6/25/2026,Annually,-1200000,1
+Tending,6/25/2014,6/25/2026,Annually,-1000000,1
+Harvesting,6/25/2014,6/25/2026,Annually,-1000000,1
+De-husking,6/25/2014,6/25/2026,Annually,-400000,1
+Seeds Seperation,6/25/2014,6/25/2026,Annually,-400000,1
+Grinding (Mill),6/25/2014,6/25/2026,Annually,-211800,1
+Transportation (Home and Mill),6/25/2014,6/25/2026,Annually,-500000,1
+Gasoline ,6/25/2014,6/25/2026,Annually,-120000,1
+Bike Maintainance,6/25/2014,6/25/2026,Annually,-166666.6667,1
+Maize Upland,6/25/2014,6/25/2026,Annually,1312500,1
